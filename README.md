@@ -22,6 +22,8 @@ Many analysts are interested in taking models they currently have and transition
 
 This presentation will be using SAS VFL through Jupyter Notebook. The related files are in the BGLIMM folder. The ipynb file is the Jupyter notebook file that holds the slide images as well as all data and program code that we will reference.
 
+## Planning on attending any of the Hands-on Workshops? Then make sure to gain access to SAS Viya for Learners. Use the instructions on the VFL4_Access_Instructions.pdf file if you have an EDU email. If you don't have an EDU email, use the information provided by the conference with the instructions in VFL_AccessWithCode.pdf to gain temporary access.
+
 ## Large-Scale Time Series Forecasting in Model Studio
 9/24  8:30a-10:00a
 
@@ -36,4 +38,3 @@ The Automated Explanation in SAS® Visual Analytics is a powerful and easy way t
 
 The related files are in the HOWs folder.
 
-## Planning on attending any of the Hands-on Workshops? Then make sure to gain access to SAS Viya for Learners. Use the instructions on the VFL4_Access_Instructions.pdf file if you have an EDU email. If you don't have an EDU email, use the information provided by the conference to gain temporary access.
